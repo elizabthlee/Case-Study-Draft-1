@@ -134,6 +134,16 @@ h3 {
     width: 90vh;
 }
 
+.lofiWidth {
+    width: 25%;
+}
+
+.homepageSize {
+    width: 30%;
+}
+
+
+
 .mockups {
     display: flex;
     justify-content: center;
