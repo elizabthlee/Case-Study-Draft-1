@@ -130,6 +130,10 @@ h3 {
     padding: 50px 0px;
 }
 
+.viewPort {
+    width: 90%;
+}
+
 .mockups {
     display: flex;
     justify-content: center;
