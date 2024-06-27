@@ -1,0 +1,136 @@
+/* navigation */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.header1 {
+    font-family: "Playfair Display", serif;
+    font-size: 25px;
+    color: black;
+}
+
+.body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+}
+
+.button {
+    background-color: black;
+    color: white;
+    padding: 15px;
+}
+
+/* jumbotron */
+
+.jumbotron {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: black;
+    color: white;
+    padding: 64px 32px 0px 32px;
+}
+
+.paddingDown {
+    padding: 0px 0px 64px 0px;
+}
+
+.leftJumbo {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 64px 0px 0px 0px;
+}
+
+.cloud {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.display-4 {
+    font-family: "Playfair Display", serif;
+    font-size: 100px;
+}
+
+.lead {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+}
+
+
+/* preinfo section */
+.bodyBold {
+    font-weight: bolder;
+}
+
+.container {
+    padding: 80px;
+    margin: 0px;
+}
+
+.preInfo {
+    display: flex;
+    justify-content: space-around;
+}
+
+/* problem/solution sneak peek */
+.sneakPeek {
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    padding: 20px;
+}
+
+.card {
+    background-color: black;
+    color: white;
+    border-color: white;
+    width: 50%;
+    margin: 30px;
+    border-radius: 30px;
+}
+
+.bodyWhite {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+}
+
+.bodyBoldWhite {
+    font-weight: bolder;
+}
+
+/* body section */
+.bodySection {
+    padding: 50px;
+    font-family: "Playfair Display", serif;
+}
+
+.imgSize {
+    width: 45%;
+}
+
+h3 {
+    /* padding: 50px; */
+    font-size: 40px;
+}
+
+
+.horizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 50px 0px;
+}
+
+.mockups {
+    display: flex;
+    justify-content: center;
+}
